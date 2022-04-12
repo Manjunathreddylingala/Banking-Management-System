@@ -45,7 +45,7 @@ class Account :
         return self.deposit
     
 def intro():
-    print("\t\t\t\t\tBANK MANAGEMENT SYSTEM developed by JAI GORA")
+    print("\t\t\t\t\tBANK MANAGEMENT SYSTEM developed by manjunath,harish,kiran")
     input()
 
 def writeAccount():
